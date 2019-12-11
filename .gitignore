@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+### gitIgnore template
+/.idea
+.settings/
+.project/
+.classpath/
+target/
+bin/
+*.iml
